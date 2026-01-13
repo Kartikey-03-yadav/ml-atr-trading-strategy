@@ -1,0 +1,5 @@
+Data Source:
+	•	Gold (GC=F) OHLCV data
+	•	Timeframe: 15-minute
+	•	Source: Yahoo Finance / Broker API
+	•	Period: 60 days
